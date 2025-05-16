@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Mohammed Zayyad (@mz0x0100)
-- 👀 I’m interested in AI, Cyber Security, Data Science and Machine Learning...
-- 🌱 I’m currently learning things related to AI such as Machine Learning(ML), Natural Language Processing (NLP) and Computer Vision (CV)...
-- 💞️ I’m looking to collaborate on projects related to Machine Learning and Artificial Intelligence...
-- 📫 How to reach me <a href="mailto:adamukala234@gmail.com">email</a>, <a href="https://mz0x0100.github.io">website</a>, or my social media handle @mz0x0100...
+- 👋 Hey, I'm Mohammed Zayyad (@mz0x0100)
+- 🚀 Building full-stack Web3 products (Solana, Anchor, Rust, Next.js, Tailwind)
+- 🛠️ Projects: Coinlet (Pi P2P exchange), Detork (Web3 freelance platform)
+- 🧠 Passionate about AI, systems thinking, crypto UX, and decentralized infrastructure
+- 📈 Learning by building — smart contracts, protocol design, and on-chain logic
+- 💬 Let’s connect: <a href="mailto:adamukala234@gmail.com">email</a> | @mz0x0100
+
+<!---
+mz0x0100/mz0x0100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
+
 
 <!---
 mz0x0100/mz0x0100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
